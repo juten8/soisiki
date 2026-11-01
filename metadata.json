@@ -1,0 +1,6 @@
+{
+  "name": "葬儀施行・準備マニュアル（三大工程完全網羅）",
+  "description": "ご臨終・搬送・安置から通夜、告別式・出棺火葬、精進落としまで。葬儀実務の3大工程を完全網羅した葬祭ディレクター・ご遺族向け準備マニュアル＆見積り・祭壇図面・進行管理システム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
